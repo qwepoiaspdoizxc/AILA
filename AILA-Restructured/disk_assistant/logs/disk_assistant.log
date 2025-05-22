@@ -1,0 +1,86 @@
+2025-05-22 07:33:42,702 - DiskAssistant - ERROR - Error loading config: Expecting value: line 1 column 1 (char 0)
+2025-05-22 07:33:42,703 - DiskAssistant - INFO - Starting Disk Assistant...
+2025-05-22 07:33:43,512 - DiskAssistant - INFO - Created new index at file_index
+2025-05-22 07:33:44,305 - DiskAssistant - INFO - Database initialized at file_metadata.db
+2025-05-22 07:33:45,571 - DiskAssistant - INFO - Loaded spaCy language model
+2025-05-22 07:33:55,832 - DiskAssistant - INFO - Monitoring directory: C:\Users\ccagubcub\Documents
+2025-05-22 07:33:55,834 - DiskAssistant - INFO - Loading Vosk model from C:/Users/ccagubcub/Documents/AudioRecognition/vosk-model-en-us-0.22
+2025-05-22 07:36:00,369 - DiskAssistant - INFO - Vosk model loaded successfully
+2025-05-22 07:36:36,613 - DiskAssistant - INFO - Audio input initialized
+2025-05-22 07:36:38,153 - DiskAssistant - INFO - Application started successfully
+2025-05-22 07:37:31,106 - DiskAssistant - INFO - File system monitor stopped
+2025-05-22 07:42:07,237 - DiskAssistant - ERROR - Error loading config: Expecting value: line 1 column 1 (char 0)
+2025-05-22 07:42:07,238 - DiskAssistant - INFO - Starting Disk Assistant...
+2025-05-22 07:42:07,875 - DiskAssistant - INFO - Opened existing index at file_index
+2025-05-22 07:42:07,892 - DiskAssistant - INFO - Database initialized at file_metadata.db
+2025-05-22 07:42:08,938 - DiskAssistant - INFO - Loaded spaCy language model
+2025-05-22 07:42:10,410 - DiskAssistant - INFO - Monitoring directory: C:\Users\ccagubcub\Documents
+2025-05-22 07:42:10,412 - DiskAssistant - INFO - Loading Vosk model from C:/Users/ccagubcub/Documents/AudioRecognition/vosk-model-en-us-0.22
+2025-05-22 07:43:08,645 - DiskAssistant - INFO - Vosk model loaded successfully
+2025-05-22 07:43:09,544 - DiskAssistant - INFO - Audio input initialized
+2025-05-22 07:43:09,544 - DiskAssistant - INFO - Application started successfully
+2025-05-22 07:43:16,044 - DiskAssistant - INFO - Voice recognition started
+2025-05-22 07:43:20,735 - DiskAssistant - INFO - Voice recognition stopped
+2025-05-22 07:45:52,701 - DiskAssistant - INFO - File system monitor stopped
+2025-05-22 07:47:08,543 - DiskAssistant - ERROR - Error loading config: Expecting value: line 1 column 1 (char 0)
+2025-05-22 07:47:08,545 - DiskAssistant - INFO - Starting Disk Assistant...
+2025-05-22 07:47:09,318 - DiskAssistant - INFO - Opened existing index at file_index
+2025-05-22 07:47:09,319 - DiskAssistant - INFO - Database initialized at file_metadata.db
+2025-05-22 07:47:10,207 - DiskAssistant - INFO - Loaded spaCy language model
+2025-05-22 07:47:12,152 - DiskAssistant - INFO - Monitoring directory: C:\Users\ccagubcub\Documents
+2025-05-22 07:47:12,154 - DiskAssistant - INFO - Loading Vosk model from C:/Users/ccagubcub/Documents/AudioRecognition/vosk-model-en-us-0.22
+2025-05-22 07:47:56,418 - DiskAssistant - INFO - Vosk model loaded successfully
+2025-05-22 07:47:56,846 - DiskAssistant - INFO - Audio input initialized
+2025-05-22 07:47:56,847 - DiskAssistant - INFO - Application started successfully
+2025-05-22 07:47:59,150 - DiskAssistant - INFO - Voice recognition started
+2025-05-22 07:48:01,131 - DiskAssistant - INFO - Voice recognition stopped
+2025-05-22 07:48:18,048 - DiskAssistant - INFO - Monitoring directory: C:/Users/ccagubcub/Documents/123
+2025-05-22 07:53:14,200 - DiskAssistant - ERROR - Error loading config: Expecting value: line 1 column 1 (char 0)
+2025-05-22 07:53:14,202 - DiskAssistant - INFO - Starting Disk Assistant...
+2025-05-22 07:53:14,862 - DiskAssistant - INFO - Opened existing index at file_index
+2025-05-22 07:53:14,864 - DiskAssistant - INFO - Database initialized at file_metadata.db
+2025-05-22 07:53:15,695 - DiskAssistant - INFO - Loaded spaCy language model
+2025-05-22 07:53:17,335 - DiskAssistant - INFO - Monitoring directory: C:\Users\ccagubcub\Documents
+2025-05-22 07:53:17,336 - DiskAssistant - INFO - Loading Vosk model from C:/Users/ccagubcub/Documents/AudioRecognition/vosk-model-en-us-0.22
+2025-05-22 07:54:01,921 - DiskAssistant - INFO - Vosk model loaded successfully
+2025-05-22 07:54:03,143 - DiskAssistant - INFO - Audio input initialized
+2025-05-22 07:54:03,143 - DiskAssistant - INFO - Application started successfully
+2025-05-22 07:56:17,321 - DiskAssistant - INFO - File system monitor stopped
+2025-05-22 08:12:28,239 - DiskAssistant - ERROR - Error loading config: Expecting value: line 1 column 1 (char 0)
+2025-05-22 08:12:28,239 - DiskAssistant - INFO - Starting Disk Assistant...
+2025-05-22 08:12:28,730 - DiskAssistant - INFO - Opened existing index at file_index
+2025-05-22 08:12:28,731 - DiskAssistant - INFO - Database initialized at file_metadata.db
+2025-05-22 08:12:29,581 - DiskAssistant - INFO - Loaded spaCy language model
+2025-05-22 08:12:30,795 - DiskAssistant - INFO - Monitoring directory: C:\Users\ccagubcub\Documents\Training
+2025-05-22 08:12:30,797 - DiskAssistant - INFO - Loading Vosk model from C:/Users/ccagubcub/Documents/AudioRecognition/vosk-model-en-us-0.22
+2025-05-22 08:13:18,986 - DiskAssistant - INFO - Vosk model loaded successfully
+2025-05-22 08:13:19,600 - DiskAssistant - INFO - Audio input initialized
+2025-05-22 08:13:19,600 - DiskAssistant - INFO - Application started successfully
+2025-05-22 08:14:25,845 - DiskAssistant - INFO - File system monitor stopped
+2025-05-22 08:15:13,813 - DiskAssistant - INFO - Created default configuration at disk_assistant_config.json
+2025-05-22 08:15:13,814 - DiskAssistant - INFO - Starting Disk Assistant...
+2025-05-22 08:15:14,482 - DiskAssistant - INFO - Opened existing index at file_index
+2025-05-22 08:15:14,483 - DiskAssistant - INFO - Database initialized at file_metadata.db
+2025-05-22 08:15:15,280 - DiskAssistant - INFO - Loaded spaCy language model
+2025-05-22 08:15:16,886 - DiskAssistant - INFO - Monitoring directory: C:\Users\ccagubcub\Documents\Training
+2025-05-22 08:15:16,888 - DiskAssistant - INFO - Loading Vosk model from C:/Users/ccagubcub/Documents/AudioRecognition/vosk-model-en-us-0.22
+2025-05-22 08:16:12,623 - DiskAssistant - INFO - Vosk model loaded successfully
+2025-05-22 08:16:13,149 - DiskAssistant - INFO - Audio input initialized
+2025-05-22 08:16:13,149 - DiskAssistant - INFO - Application started successfully
+2025-05-22 08:16:43,124 - DiskAssistant - INFO - Monitoring directory: C:/Users/ccagubcub/Documents/Training
+2025-05-22 08:23:08,873 - DiskAssistant - INFO - Created default configuration at disk_assistant_config.json
+2025-05-22 08:23:08,874 - DiskAssistant - INFO - Starting Disk Assistant...
+2025-05-22 08:23:09,615 - DiskAssistant - INFO - Opened existing index at file_index
+2025-05-22 08:23:09,621 - DiskAssistant - INFO - Database initialized at file_metadata.db
+2025-05-22 08:23:09,628 - DiskAssistant - WARNING - spaCy model not found, attempting download...
+2025-05-22 08:23:27,230 - DiskAssistant - INFO - Downloaded spaCy model successfully
+2025-05-22 08:23:35,796 - DiskAssistant - INFO - Monitoring directory: C:\Users\ccagubcub\Documents\Training
+2025-05-22 08:23:35,798 - DiskAssistant - INFO - Loading Vosk model from C:/Users/ccagubcub/Documents/AudioRecognition/vosk-model-en-us-0.22
+2025-05-22 08:24:18,589 - DiskAssistant - INFO - Vosk model loaded successfully
+2025-05-22 08:24:19,031 - DiskAssistant - INFO - Audio input initialized
+2025-05-22 08:24:19,032 - DiskAssistant - INFO - Application started successfully
+2025-05-22 08:24:57,186 - DiskAssistant - ERROR - Search error: 'str' object cannot be interpreted as an integer
+2025-05-22 08:25:00,041 - DiskAssistant - ERROR - Search error: 'str' object cannot be interpreted as an integer
+2025-05-22 08:25:05,541 - DiskAssistant - ERROR - Search error: 'str' object cannot be interpreted as an integer
+2025-05-22 08:25:56,330 - DiskAssistant - INFO - Directory scan complete: 60/60 files indexed in C:\Users\ccagubcub\Documents\Training
+2025-05-22 08:26:35,058 - DiskAssistant - INFO - File system monitor stopped
