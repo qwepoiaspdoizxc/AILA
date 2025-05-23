@@ -1,8 +1,4 @@
-"""
-Natural Language Processing module for the Disk Assistant.
-Handles query processing and intent analysis.
-"""
-
+from .entity_extractor import EntityExtractor
 from .query_processor import QueryProcessor
 
-__all__ = ["QueryProcessor"]
+__all__ = ["EntityExtractor", "QueryProcessor"]

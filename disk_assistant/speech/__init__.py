@@ -1,8 +1,5 @@
-"""
-Speech recognition module for the Disk Assistant.
-Handles voice input and speech-to-text conversion.
-"""
-
 from .recognizer import SpeechRecognizer
+from .text_to_speech import TextToSpeech
+from .wake_word_detector import WakeWordDetector
 
-__all__ = ["SpeechRecognizer"]
+__all__ = ["SpeechRecognizer", "TextToSpeech", "WakeWordDetector"]

@@ -1,8 +1,6 @@
-"""
-Utility modules for the Disk Assistant.
-Contains logging, configuration helpers, and other utilities.
-"""
+from .audio_utils import AudioUtils
+from .file_utils import FileUtils
+from .logger import Logger
+from .system_utils import SystemUtils
 
-from .logger import logger, get_logger, set_log_level
-
-__all__ = ["logger", "get_logger", "set_log_level"]
+__all__ = ["AudioUtils", "FileUtils", "Logger", "SystemUtils"]

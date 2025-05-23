@@ -1,8 +1,4 @@
-"""
-User Interface module for the Disk Assistant.
-Contains GUI components and interface logic.
-"""
+from .ai_chat_widget import AIChatWidget
+from .gui import MainGUI
 
-from .gui import DiskAssistantGUI
-
-__all__ = ["DiskAssistantGUI"]
+__all__ = ["AIChatWidget", "MainGUI"]
