@@ -24,6 +24,5 @@ ENV/
 .vscode/
 .idea/
 
-.log/
-
-.pyc/
+*.log
+*.pyc
