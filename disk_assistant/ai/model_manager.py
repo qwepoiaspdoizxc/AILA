@@ -1,12 +1,3 @@
-"""
-AI Model Management
-
-Handles loading, caching, and management of AI models including:
-- Local LLM models (GGUF, HuggingFace)
-- Embedding models
-- Model switching and configuration
-"""
-
 import os
 import json
 import threading

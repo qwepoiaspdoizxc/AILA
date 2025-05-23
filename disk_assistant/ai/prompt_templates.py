@@ -1,13 +1,3 @@
-"""
-AI Prompt Templates for the Disk Assistant
-
-Contains various prompt templates for different AI tasks including:
-- File search assistance
-- Data analysis interpretation
-- File organization suggestions
-- System maintenance recommendations
-"""
-
 from typing import Dict, List, Any, Optional
 
 

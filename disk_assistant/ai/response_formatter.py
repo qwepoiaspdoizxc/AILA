@@ -1,13 +1,3 @@
-"""
-AI Response Formatter
-
-Formats AI responses for different output modes and contexts including:
-- Search results formatting
-- Data analysis presentation
-- Error handling
-- Voice response adaptation
-"""
-
 import json
 from typing import Dict, List, Any, Optional
 from datetime import datetime
