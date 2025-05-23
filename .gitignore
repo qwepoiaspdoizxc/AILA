@@ -23,3 +23,7 @@ ENV/
 # IDE settings
 .vscode/
 .idea/
+
+.log/
+
+.pyc/
